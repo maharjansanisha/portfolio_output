@@ -1,11 +1,11 @@
 {
-    "name": "portfolio",
-    "short_name": "portfolio",
+    "name": "Sanisha Maharjan Portfolio",
+    "short_name": "Sanisha Portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Creative and detail-oriented UI/UX Designer with a passion for crafting user-centered digital solutions. I possess strong skills in user research, wireframing, prototyping, and user testing, developed through both hands-on project work and dedicated self-learning.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
@@ -31,5 +31,6 @@
             "type": "image/png",
             "purpose": "maskable"
         }
-    ]
+    ],
+    "categories": ["portfolio", "ui-ux", "design", "technology"]
 }
